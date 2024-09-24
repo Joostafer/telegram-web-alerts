@@ -1,0 +1,62 @@
+{
+  "en": {
+    "status_change": "Page status for {{url}} changed from {{old_status}} to {{new_status}}",
+    "status_check": "Checking status for {{url}}",
+    "alert_error": "There is an issue with the page {{url}}.",
+    "command_status": "Current status of tracked pages:",
+    "status_entry": "{{emoji}} URL: {{url}} - Status: {{status}}, Block count: {{block_count}}",
+    "block_count_change": "Block count on page {{url}} changed from {{old_blocks}} to {{new_blocks}}",
+    "monitoring_started": "Monitoring started!",
+    "restart": "Restarting with new parameters!"
+  },
+  "ru": {
+    "status_change": "Статус страницы {{url}} изменился с {{old_status}} на {{new_status}}",
+    "status_check": "Проверка статуса страницы {{url}}",
+    "alert_error": "Проблема со страницей {{url}}.",
+    "command_status": "Текущий статус отслеживаемых страниц:",
+    "status_entry": "{{emoji}} URL: {{url}} - Статус: {{status}}, Количество блоков: {{block_count}}",
+    "block_count_change": "Количество блоков на странице {{url}} изменилось с {{old_blocks}} на {{new_blocks}}",
+    "monitoring_started": "Мониторинг запущен!",
+    "restart": "Перезапуск с новыми параметрами!"
+  },
+  "uk": {
+    "status_change": "Статус сторінки {{url}} змінився з {{old_status}} на {{new_status}}",
+    "status_check": "Перевірка статусу сторінки {{url}}",
+    "alert_error": "Проблема зі сторінкою {{url}}.",
+    "command_status": "Поточний статус відстежуваних сторінок:",
+    "block_count_change": "Кількість блоків на сторінці {{url}} змінилася з {{old_blocks}} на {{new_blocks}}",
+    "status_entry": "{{emoji}} URL: {{url}} - Статус: {{status}}, Кількість блоків: {{block_count}}",
+    "monitoring_started": "Моніторинг розпочато!",
+    "restart": "Перезапуск з новими параметрами!"
+  },
+  "es": {
+    "status_change": "El estado de la página {{url}} cambió de {{old_status}} a {{new_status}}",
+    "status_check": "Verificando el estado de la página {{url}}",
+    "alert_error": "Hay un problema con la página {{url}}.",
+    "block_count_change": "La cantidad de bloques en la página {{url}} cambió de {{old_blocks}} a {{new_blocks}}",
+    "command_status": "Estado actual de las páginas rastreadas:",
+    "status_entry": "{{emoji}} URL: {{url}} - Estado: {{status}}, Cantidad de bloques: {{block_count}}",
+    "monitoring_started": "¡Monitoreo iniciado!",
+    "restart": "¡Reiniciando con nuevos parámetros!"
+  },
+  "de": {
+    "status_change": "Der Status der Seite {{url}} änderte sich von {{old_status}} auf {{new_status}}",
+    "status_check": "Überprüfen des Status der Seite {{url}}",
+    "alert_error": "Es gibt ein Problem mit der Seite {{url}}.",
+    "command_status": "Aktueller Status der überwachten Seiten:",
+    "block_count_change": "Blockanzahl auf Seite {{url}} änderte sich von {{old_blocks}} auf {{new_blocks}}",
+    "status_entry": "{{emoji}} URL: {{url}} - Status: {{status}}, Blockanzahl: {{block_count}}",
+    "monitoring_started": "Überwachung gestartet!",
+    "restart": "Neustart mit neuen Parametern!"
+  },
+  "fr": {
+    "status_change": "Le statut de la page {{url}} a changé de {{old_status}} à {{new_status}}",
+    "status_check": "Vérification du statut de la page {{url}}",
+    "alert_error": "Il y a un problème avec la page {{url}}.",
+    "block_count_change": "Le nombre de blocs sur la page {{url}} a changé de {{old_blocks}} à {{new_blocks}}",
+    "command_status": "Statut actuel des pages suivies :",
+    "status_entry": "{{emoji}} URL : {{url}} - Statut : {{status}}, Nombre de blocs : {{block_count}}",
+    "monitoring_started": "Surveillance démarrée !",
+    "restart": "Redémarrage avec de nouveaux paramètres !"
+  }
+}
